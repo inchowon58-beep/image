@@ -1,0 +1,10 @@
+{
+  "name": "maincoon-images",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/generate-manifest.js",
+    "dev": "npx serve public",
+    "deploy": "vercel --prod"
+  }
+}

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Main Coon 작성</title>
+  <style>
+    :root {
+      --bg: #f6f3ee;
+      --card: #ffffff;
+      --text: #1f1a17;
+      --muted: #6f655d;
+      --accent: #8b5e3c;
+      --border: #e4ddd4;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .layout {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1.5rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+
+    a, button {
+      font: inherit;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .toolbar, .row {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    button {
+      border: 1px solid var(--border);
+      background: #fff;
+      padding: 0.55rem 0.9rem;
+      border-radius: 999px;
+      cursor: pointer;
+    }
+
+    button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1rem;
+    }
+
+    label {
+      display: block;
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+    }
+
+    #title, #editor {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.75rem;
+      font: inherit;
+      background: #fff;
+    }
+
+    #title {
+      margin-bottom: 0.75rem;
+    }
+
+    #editor {
+      min-height: 220px;
+      resize: vertical;
+      line-height: 1.6;
+    }
+
+    .preview {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .preview figure {
+      margin: 0;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .preview img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      display: block;
+    }
+
+    .preview figcaption {
+      font-size: 0.75rem;
+      color: var(--muted);
+      padding: 0.35rem 0.5rem;
+      text-align: center;
+    }
+
+    .hint {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <header>
+      <h1>랜덤 이미지 작성</h1>
+      <a href="/">갤러리로 돌아가기</a>
+    </header>
+
+    <p class="hint">
+      <code>/maincoon</code> 폴더에서 랜덤으로 이미지를 가져와 본문에 삽입합니다.
+      배포 후 생성되는 URL을 그대로 사용할 수 있습니다.
+    </p>
+
+    <div class="card">
+      <div class="toolbar" style="margin-bottom: 0.75rem;">
+        <button type="button" class="primary" id="insertOne">랜덤 1장 삽입</button>
+        <button type="button" id="insertThree">랜덤 3장 삽입</button>
+        <button type="button" id="previewBtn">미리보기 갱신</button>
+      </div>
+
+      <label for="title">제목</label>
+      <input id="title" type="text" placeholder="제목을 입력하세요" />
+
+      <label for="editor">본문 (마크다운 형식)</label>
+      <textarea id="editor" placeholder="본문을 작성하세요. 랜덤 이미지를 삽입하면 ![alt](url) 형식으로 추가됩니다."></textarea>
+    </div>
+
+    <div class="card">
+      <h2 style="margin: 0 0 0.75rem; font-size: 1rem;">선택된 이미지 미리보기</h2>
+      <div class="preview" id="preview"></div>
+    </div>
+  </div>
+
+  <script src="/js/maincoon.js"></script>
+  <script>
+    const editor = document.getElementById("editor");
+
+    function insertMarkdown(images) {
+      const block = images
+        .map((img) => `![${img.filename}](${img.url})`)
+        .join("\n\n");
+
+      const prefix = editor.value.trim() ? "\n\n" : "";
+      editor.value += prefix + block + "\n";
+      updatePreview();
+    }
+
+    function extractImagesFromEditor() {
+      const regex = /!\[[^\]]*\]\(([^)]+)\)/g;
+      const urls = [];
+      let match;
+      while ((match = regex.exec(editor.value)) !== null) {
+        urls.push(match[1]);
+      }
+      return urls;
+    }
+
+    function updatePreview() {
+      const preview = document.getElementById("preview");
+      const urls = extractImagesFromEditor();
+
+      preview.innerHTML = urls
+        .map((url, index) => {
+          const name = url.split("/").pop();
+          return `
+            <figure>
+              <img src="${url}" alt="${name}" />
+              <figcaption>${name || `image-${index + 1}`}</figcaption>
+            </figure>
+          `;
+        })
+        .join("");
+    }
+
+    document.getElementById("insertOne").addEventListener("click", async () => {
+      const image = await MaincoonImages.getRandomImage();
+      if (image) insertMarkdown([image]);
+    });
+
+    document.getElementById("insertThree").addEventListener("click", async () => {
+      const images = await MaincoonImages.getRandomImages(3);
+      if (images.length) insertMarkdown(images);
+    });
+
+    document.getElementById("previewBtn").addEventListener("click", updatePreview);
+    editor.addEventListener("input", updatePreview);
+  </script>
+</body>
+</html>
