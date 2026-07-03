@@ -1,0 +1,87 @@
+{
+  "folder": "chul",
+  "format": "webp",
+  "count": 20,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/chul/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/chul/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/chul/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/chul/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/chul/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/chul/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/chul/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/chul/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/chul/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/chul/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/chul/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/chul/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/chul/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/chul/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/chul/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/chul/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/chul/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/chul/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/chul/19.webp"
+    },
+    {
+      "filename": "20.webp",
+      "path": "/chul/20.webp"
+    }
+  ]
+}
