@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "folder": "chul",
+      "format": "webp",
+      "count": 20,
+      "sample": "/chul/01.webp"
+    },
+    {
+      "folder": "dogboho",
+      "format": "webp",
+      "count": 48,
+      "sample": "/dogboho/01.webp"
+    },
+    {
+      "folder": "jejuland",
+      "format": "webp",
+      "count": 78,
+      "sample": "/jejuland/01.webp"
+    },
+    {
+      "folder": "maincoon",
+      "format": "webp",
+      "count": 59,
+      "sample": "/maincoon/01.webp"
+    },
+    {
+      "folder": "neva",
+      "format": "webp",
+      "count": 57,
+      "sample": "/neva/01.webp"
+    }
+  ]
+}

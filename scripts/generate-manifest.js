@@ -9,7 +9,10 @@ fs.mkdirSync(dataDir, { recursive: true });
 
 const configFiles = fs
   .readdirSync(configDir)
-  .filter((name) => name.endsWith(".json"));
+  .filter((name) => name.endsWith(".json"))
+  .sort();
+
+const foldersIndex = [];
 
 for (const configFile of configFiles) {
   const config = JSON.parse(
@@ -45,5 +48,19 @@ for (const configFile of configFiles) {
     JSON.stringify(manifest, null, 2)
   );
 
+  foldersIndex.push({
+    folder: config.folder,
+    format: config.format,
+    count: images.length,
+    sample: images[0]?.path || null,
+  });
+
   console.log(`Generated ${outputName} with ${images.length} images.`);
 }
+
+fs.writeFileSync(
+  path.join(dataDir, "folders-index.json"),
+  JSON.stringify({ folders: foldersIndex }, null, 2)
+);
+
+console.log(`Generated folders-index.json with ${foldersIndex.length} folders.`);
