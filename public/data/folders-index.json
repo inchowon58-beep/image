@@ -7,6 +7,12 @@
       "sample": "/chul/01.webp"
     },
     {
+      "folder": "coton",
+      "format": "webp",
+      "count": 30,
+      "sample": "/coton/01.webp"
+    },
+    {
       "folder": "dogboho",
       "format": "webp",
       "count": 48,
