@@ -35,6 +35,12 @@
       "format": "webp",
       "count": 57,
       "sample": "/neva/01.webp"
+    },
+    {
+      "folder": "pomsky",
+      "format": "webp",
+      "count": 50,
+      "sample": "/pomsky/01.webp"
     }
   ]
 }
