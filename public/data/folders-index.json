@@ -7,6 +7,12 @@
       "sample": "/chul/01.webp"
     },
     {
+      "folder": "com2pet",
+      "format": "webp",
+      "count": 28,
+      "sample": "/com2pet/01.webp"
+    },
+    {
       "folder": "coton",
       "format": "webp",
       "count": 30,
