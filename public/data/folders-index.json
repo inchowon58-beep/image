@@ -47,6 +47,12 @@
       "format": "webp",
       "count": 50,
       "sample": "/pomsky/01.webp"
+    },
+    {
+      "folder": "wpark",
+      "format": "webp",
+      "count": 100,
+      "sample": "/wpark/01.webp"
     }
   ]
 }

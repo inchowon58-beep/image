@@ -1,0 +1,407 @@
+{
+  "folder": "wpark",
+  "format": "webp",
+  "count": 100,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/wpark/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/wpark/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/wpark/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/wpark/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/wpark/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/wpark/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/wpark/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/wpark/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/wpark/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/wpark/10.webp"
+    },
+    {
+      "filename": "100.webp",
+      "path": "/wpark/100.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/wpark/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/wpark/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/wpark/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/wpark/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/wpark/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/wpark/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/wpark/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/wpark/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/wpark/19.webp"
+    },
+    {
+      "filename": "20.webp",
+      "path": "/wpark/20.webp"
+    },
+    {
+      "filename": "21.webp",
+      "path": "/wpark/21.webp"
+    },
+    {
+      "filename": "22.webp",
+      "path": "/wpark/22.webp"
+    },
+    {
+      "filename": "23.webp",
+      "path": "/wpark/23.webp"
+    },
+    {
+      "filename": "24.webp",
+      "path": "/wpark/24.webp"
+    },
+    {
+      "filename": "25.webp",
+      "path": "/wpark/25.webp"
+    },
+    {
+      "filename": "26.webp",
+      "path": "/wpark/26.webp"
+    },
+    {
+      "filename": "27.webp",
+      "path": "/wpark/27.webp"
+    },
+    {
+      "filename": "28.webp",
+      "path": "/wpark/28.webp"
+    },
+    {
+      "filename": "29.webp",
+      "path": "/wpark/29.webp"
+    },
+    {
+      "filename": "30.webp",
+      "path": "/wpark/30.webp"
+    },
+    {
+      "filename": "31.webp",
+      "path": "/wpark/31.webp"
+    },
+    {
+      "filename": "32.webp",
+      "path": "/wpark/32.webp"
+    },
+    {
+      "filename": "33.webp",
+      "path": "/wpark/33.webp"
+    },
+    {
+      "filename": "34.webp",
+      "path": "/wpark/34.webp"
+    },
+    {
+      "filename": "35.webp",
+      "path": "/wpark/35.webp"
+    },
+    {
+      "filename": "36.webp",
+      "path": "/wpark/36.webp"
+    },
+    {
+      "filename": "37.webp",
+      "path": "/wpark/37.webp"
+    },
+    {
+      "filename": "38.webp",
+      "path": "/wpark/38.webp"
+    },
+    {
+      "filename": "39.webp",
+      "path": "/wpark/39.webp"
+    },
+    {
+      "filename": "40.webp",
+      "path": "/wpark/40.webp"
+    },
+    {
+      "filename": "41.webp",
+      "path": "/wpark/41.webp"
+    },
+    {
+      "filename": "42.webp",
+      "path": "/wpark/42.webp"
+    },
+    {
+      "filename": "43.webp",
+      "path": "/wpark/43.webp"
+    },
+    {
+      "filename": "44.webp",
+      "path": "/wpark/44.webp"
+    },
+    {
+      "filename": "45.webp",
+      "path": "/wpark/45.webp"
+    },
+    {
+      "filename": "46.webp",
+      "path": "/wpark/46.webp"
+    },
+    {
+      "filename": "47.webp",
+      "path": "/wpark/47.webp"
+    },
+    {
+      "filename": "48.webp",
+      "path": "/wpark/48.webp"
+    },
+    {
+      "filename": "49.webp",
+      "path": "/wpark/49.webp"
+    },
+    {
+      "filename": "50.webp",
+      "path": "/wpark/50.webp"
+    },
+    {
+      "filename": "51.webp",
+      "path": "/wpark/51.webp"
+    },
+    {
+      "filename": "52.webp",
+      "path": "/wpark/52.webp"
+    },
+    {
+      "filename": "53.webp",
+      "path": "/wpark/53.webp"
+    },
+    {
+      "filename": "54.webp",
+      "path": "/wpark/54.webp"
+    },
+    {
+      "filename": "55.webp",
+      "path": "/wpark/55.webp"
+    },
+    {
+      "filename": "56.webp",
+      "path": "/wpark/56.webp"
+    },
+    {
+      "filename": "57.webp",
+      "path": "/wpark/57.webp"
+    },
+    {
+      "filename": "58.webp",
+      "path": "/wpark/58.webp"
+    },
+    {
+      "filename": "59.webp",
+      "path": "/wpark/59.webp"
+    },
+    {
+      "filename": "60.webp",
+      "path": "/wpark/60.webp"
+    },
+    {
+      "filename": "61.webp",
+      "path": "/wpark/61.webp"
+    },
+    {
+      "filename": "62.webp",
+      "path": "/wpark/62.webp"
+    },
+    {
+      "filename": "63.webp",
+      "path": "/wpark/63.webp"
+    },
+    {
+      "filename": "64.webp",
+      "path": "/wpark/64.webp"
+    },
+    {
+      "filename": "65.webp",
+      "path": "/wpark/65.webp"
+    },
+    {
+      "filename": "66.webp",
+      "path": "/wpark/66.webp"
+    },
+    {
+      "filename": "67.webp",
+      "path": "/wpark/67.webp"
+    },
+    {
+      "filename": "68.webp",
+      "path": "/wpark/68.webp"
+    },
+    {
+      "filename": "69.webp",
+      "path": "/wpark/69.webp"
+    },
+    {
+      "filename": "70.webp",
+      "path": "/wpark/70.webp"
+    },
+    {
+      "filename": "71.webp",
+      "path": "/wpark/71.webp"
+    },
+    {
+      "filename": "72.webp",
+      "path": "/wpark/72.webp"
+    },
+    {
+      "filename": "73.webp",
+      "path": "/wpark/73.webp"
+    },
+    {
+      "filename": "74.webp",
+      "path": "/wpark/74.webp"
+    },
+    {
+      "filename": "75.webp",
+      "path": "/wpark/75.webp"
+    },
+    {
+      "filename": "76.webp",
+      "path": "/wpark/76.webp"
+    },
+    {
+      "filename": "77.webp",
+      "path": "/wpark/77.webp"
+    },
+    {
+      "filename": "78.webp",
+      "path": "/wpark/78.webp"
+    },
+    {
+      "filename": "79.webp",
+      "path": "/wpark/79.webp"
+    },
+    {
+      "filename": "80.webp",
+      "path": "/wpark/80.webp"
+    },
+    {
+      "filename": "81.webp",
+      "path": "/wpark/81.webp"
+    },
+    {
+      "filename": "82.webp",
+      "path": "/wpark/82.webp"
+    },
+    {
+      "filename": "83.webp",
+      "path": "/wpark/83.webp"
+    },
+    {
+      "filename": "84.webp",
+      "path": "/wpark/84.webp"
+    },
+    {
+      "filename": "85.webp",
+      "path": "/wpark/85.webp"
+    },
+    {
+      "filename": "86.webp",
+      "path": "/wpark/86.webp"
+    },
+    {
+      "filename": "87.webp",
+      "path": "/wpark/87.webp"
+    },
+    {
+      "filename": "88.webp",
+      "path": "/wpark/88.webp"
+    },
+    {
+      "filename": "89.webp",
+      "path": "/wpark/89.webp"
+    },
+    {
+      "filename": "90.webp",
+      "path": "/wpark/90.webp"
+    },
+    {
+      "filename": "91.webp",
+      "path": "/wpark/91.webp"
+    },
+    {
+      "filename": "92.webp",
+      "path": "/wpark/92.webp"
+    },
+    {
+      "filename": "93.webp",
+      "path": "/wpark/93.webp"
+    },
+    {
+      "filename": "94.webp",
+      "path": "/wpark/94.webp"
+    },
+    {
+      "filename": "95.webp",
+      "path": "/wpark/95.webp"
+    },
+    {
+      "filename": "96.webp",
+      "path": "/wpark/96.webp"
+    },
+    {
+      "filename": "97.webp",
+      "path": "/wpark/97.webp"
+    },
+    {
+      "filename": "98.webp",
+      "path": "/wpark/98.webp"
+    },
+    {
+      "filename": "99.webp",
+      "path": "/wpark/99.webp"
+    }
+  ]
+}
