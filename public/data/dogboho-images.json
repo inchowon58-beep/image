@@ -1,7 +1,7 @@
 {
   "folder": "dogboho",
   "format": "webp",
-  "count": 48,
+  "count": 79,
   "images": [
     {
       "filename": "01.webp",
@@ -194,6 +194,130 @@
     {
       "filename": "48.webp",
       "path": "/dogboho/48.webp"
+    },
+    {
+      "filename": "49.webp",
+      "path": "/dogboho/49.webp"
+    },
+    {
+      "filename": "50.webp",
+      "path": "/dogboho/50.webp"
+    },
+    {
+      "filename": "51.webp",
+      "path": "/dogboho/51.webp"
+    },
+    {
+      "filename": "52.webp",
+      "path": "/dogboho/52.webp"
+    },
+    {
+      "filename": "53.webp",
+      "path": "/dogboho/53.webp"
+    },
+    {
+      "filename": "54.webp",
+      "path": "/dogboho/54.webp"
+    },
+    {
+      "filename": "55.webp",
+      "path": "/dogboho/55.webp"
+    },
+    {
+      "filename": "56.webp",
+      "path": "/dogboho/56.webp"
+    },
+    {
+      "filename": "57.webp",
+      "path": "/dogboho/57.webp"
+    },
+    {
+      "filename": "58.webp",
+      "path": "/dogboho/58.webp"
+    },
+    {
+      "filename": "59.webp",
+      "path": "/dogboho/59.webp"
+    },
+    {
+      "filename": "60.webp",
+      "path": "/dogboho/60.webp"
+    },
+    {
+      "filename": "61.webp",
+      "path": "/dogboho/61.webp"
+    },
+    {
+      "filename": "62.webp",
+      "path": "/dogboho/62.webp"
+    },
+    {
+      "filename": "63.webp",
+      "path": "/dogboho/63.webp"
+    },
+    {
+      "filename": "64.webp",
+      "path": "/dogboho/64.webp"
+    },
+    {
+      "filename": "65.webp",
+      "path": "/dogboho/65.webp"
+    },
+    {
+      "filename": "66.webp",
+      "path": "/dogboho/66.webp"
+    },
+    {
+      "filename": "67.webp",
+      "path": "/dogboho/67.webp"
+    },
+    {
+      "filename": "68.webp",
+      "path": "/dogboho/68.webp"
+    },
+    {
+      "filename": "69.webp",
+      "path": "/dogboho/69.webp"
+    },
+    {
+      "filename": "70.webp",
+      "path": "/dogboho/70.webp"
+    },
+    {
+      "filename": "71.webp",
+      "path": "/dogboho/71.webp"
+    },
+    {
+      "filename": "72.webp",
+      "path": "/dogboho/72.webp"
+    },
+    {
+      "filename": "73.webp",
+      "path": "/dogboho/73.webp"
+    },
+    {
+      "filename": "74.webp",
+      "path": "/dogboho/74.webp"
+    },
+    {
+      "filename": "75.webp",
+      "path": "/dogboho/75.webp"
+    },
+    {
+      "filename": "76.webp",
+      "path": "/dogboho/76.webp"
+    },
+    {
+      "filename": "77.webp",
+      "path": "/dogboho/77.webp"
+    },
+    {
+      "filename": "78.webp",
+      "path": "/dogboho/78.webp"
+    },
+    {
+      "filename": "79.webp",
+      "path": "/dogboho/79.webp"
     }
   ]
 }
