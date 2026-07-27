@@ -25,6 +25,12 @@
       "sample": "/dogboho/01.webp"
     },
     {
+      "folder": "doodle",
+      "format": "webp",
+      "count": 40,
+      "sample": "/doodle/01.webp"
+    },
+    {
       "folder": "jejuland",
       "format": "webp",
       "count": 78,
