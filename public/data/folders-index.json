@@ -7,12 +7,6 @@
       "sample": "/chul/01.webp"
     },
     {
-      "folder": "com2pet",
-      "format": "webp",
-      "count": 28,
-      "sample": "/com2pet/01.webp"
-    },
-    {
       "folder": "coton",
       "format": "webp",
       "count": 30,
@@ -57,7 +51,7 @@
     {
       "folder": "wpark",
       "format": "webp",
-      "count": 100,
+      "count": 7,
       "sample": "/wpark/01.webp"
     }
   ]
