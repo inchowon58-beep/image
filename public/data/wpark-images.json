@@ -1,7 +1,7 @@
 {
   "folder": "wpark",
   "format": "webp",
-  "count": 78,
+  "count": 71,
   "images": [
     {
       "filename": "new01.webp",
@@ -286,34 +286,6 @@
     {
       "filename": "new71.webp",
       "path": "/wpark/new71.webp"
-    },
-    {
-      "filename": "new72.webp",
-      "path": "/wpark/new72.webp"
-    },
-    {
-      "filename": "new73.webp",
-      "path": "/wpark/new73.webp"
-    },
-    {
-      "filename": "new74.webp",
-      "path": "/wpark/new74.webp"
-    },
-    {
-      "filename": "new75.webp",
-      "path": "/wpark/new75.webp"
-    },
-    {
-      "filename": "new76.webp",
-      "path": "/wpark/new76.webp"
-    },
-    {
-      "filename": "new77.webp",
-      "path": "/wpark/new77.webp"
-    },
-    {
-      "filename": "new78.webp",
-      "path": "/wpark/new78.webp"
     }
   ]
 }
