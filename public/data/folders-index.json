@@ -31,6 +31,12 @@
       "sample": "/jejuland/01.webp"
     },
     {
+      "folder": "jejumilgam",
+      "format": "webp",
+      "count": 13,
+      "sample": "/jejumilgam/01.webp"
+    },
+    {
       "folder": "maincoon",
       "format": "webp",
       "count": 59,
