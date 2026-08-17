@@ -55,6 +55,12 @@
       "sample": "/pomsky/01.webp"
     },
     {
+      "folder": "purme",
+      "format": "webp",
+      "count": 59,
+      "sample": "/purme/01.webp"
+    },
+    {
       "folder": "wpark",
       "format": "webp",
       "count": 71,
