@@ -61,6 +61,12 @@
       "sample": "/purme/01.webp"
     },
     {
+      "folder": "weding",
+      "format": "webp",
+      "count": 10,
+      "sample": "/weding/01.webp"
+    },
+    {
       "folder": "wpark",
       "format": "webp",
       "count": 71,

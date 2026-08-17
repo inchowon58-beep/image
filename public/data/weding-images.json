@@ -1,0 +1,47 @@
+{
+  "folder": "weding",
+  "format": "webp",
+  "count": 10,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/weding/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/weding/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/weding/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/weding/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/weding/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/weding/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/weding/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/weding/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/weding/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/weding/10.webp"
+    }
+  ]
+}
