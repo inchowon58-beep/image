@@ -1,0 +1,75 @@
+{
+  "folder": "petfuneral",
+  "format": "webp",
+  "count": 17,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/petfuneral/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/petfuneral/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/petfuneral/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/petfuneral/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/petfuneral/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/petfuneral/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/petfuneral/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/petfuneral/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/petfuneral/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/petfuneral/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/petfuneral/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/petfuneral/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/petfuneral/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/petfuneral/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/petfuneral/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/petfuneral/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/petfuneral/17.webp"
+    }
+  ]
+}

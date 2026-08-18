@@ -49,6 +49,12 @@
       "sample": "/neva/01.webp"
     },
     {
+      "folder": "petfuneral",
+      "format": "webp",
+      "count": 17,
+      "sample": "/petfuneral/01.webp"
+    },
+    {
       "folder": "pomsky",
       "format": "webp",
       "count": 50,
