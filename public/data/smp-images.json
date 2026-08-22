@@ -1,7 +1,7 @@
 {
   "folder": "smp",
   "format": "webp",
-  "count": 31,
+  "count": 33,
   "images": [
     {
       "filename": "01.webp",
@@ -126,6 +126,14 @@
     {
       "filename": "31.webp",
       "path": "/smp/31.webp"
+    },
+    {
+      "filename": "77.webp",
+      "path": "/smp/77.webp"
+    },
+    {
+      "filename": "78.webp",
+      "path": "/smp/78.webp"
     }
   ]
 }
