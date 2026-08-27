@@ -1,0 +1,75 @@
+{
+  "folder": "rusian",
+  "format": "webp",
+  "count": 17,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/rusian/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/rusian/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/rusian/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/rusian/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/rusian/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/rusian/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/rusian/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/rusian/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/rusian/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/rusian/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/rusian/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/rusian/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/rusian/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/rusian/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/rusian/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/rusian/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/rusian/17.webp"
+    }
+  ]
+}

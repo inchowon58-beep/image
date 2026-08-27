@@ -1,6 +1,36 @@
 {
   "folders": [
     {
+      "folder": "abisinan",
+      "format": "webp",
+      "count": 20,
+      "sample": "/abisinan/01.webp"
+    },
+    {
+      "folder": "american",
+      "format": "webp",
+      "count": 18,
+      "sample": "/american/01.webp"
+    },
+    {
+      "folder": "bnagal",
+      "format": "webp",
+      "count": 20,
+      "sample": "/bnagal/01.webp"
+    },
+    {
+      "folder": "british",
+      "format": "webp",
+      "count": 87,
+      "sample": "/british/01.webp"
+    },
+    {
+      "folder": "catboho",
+      "format": "webp",
+      "count": 60,
+      "sample": "/catboho/01.webp"
+    },
+    {
       "folder": "chul",
       "format": "webp",
       "count": 20,
@@ -11,6 +41,12 @@
       "format": "webp",
       "count": 30,
       "sample": "/coton/01.webp"
+    },
+    {
+      "folder": "daks",
+      "format": "webp",
+      "count": 23,
+      "sample": "/daks/01.webp"
     },
     {
       "folder": "dogboho",
@@ -43,16 +79,46 @@
       "sample": "/maincoon/01.webp"
     },
     {
+      "folder": "mcnchikin",
+      "format": "webp",
+      "count": 66,
+      "sample": "/mcnchikin/01.webp"
+    },
+    {
       "folder": "neva",
       "format": "webp",
       "count": 57,
       "sample": "/neva/01.webp"
     },
     {
+      "folder": "norwe",
+      "format": "webp",
+      "count": 25,
+      "sample": "/norwe/01.webp"
+    },
+    {
+      "folder": "oldbig",
+      "format": "webp",
+      "count": 12,
+      "sample": "/oldbig/01.webp"
+    },
+    {
+      "folder": "perisian",
+      "format": "webp",
+      "count": 13,
+      "sample": "/perisian/01.webp"
+    },
+    {
       "folder": "petfuneral",
       "format": "webp",
       "count": 17,
       "sample": "/petfuneral/01.webp"
+    },
+    {
+      "folder": "pome",
+      "format": "webp",
+      "count": 66,
+      "sample": "/pome/01.webp"
     },
     {
       "folder": "pomsky",
@@ -67,10 +133,58 @@
       "sample": "/purme/01.webp"
     },
     {
+      "folder": "ragdoll",
+      "format": "webp",
+      "count": 57,
+      "sample": "/ragdoll/01.webp"
+    },
+    {
+      "folder": "rusian",
+      "format": "webp",
+      "count": 17,
+      "sample": "/rusian/01.webp"
+    },
+    {
+      "folder": "samoyed",
+      "format": "webp",
+      "count": 16,
+      "sample": "/samoyed/01.webp"
+    },
+    {
+      "folder": "scottish",
+      "format": "webp",
+      "count": 19,
+      "sample": "/scottish/01.webp"
+    },
+    {
+      "folder": "selti",
+      "format": "webp",
+      "count": 98,
+      "sample": "/selti/01.webp"
+    },
+    {
+      "folder": "siba",
+      "format": "webp",
+      "count": 19,
+      "sample": "/siba/01.webp"
+    },
+    {
+      "folder": "singa",
+      "format": "webp",
+      "count": 19,
+      "sample": "/singa/01.webp"
+    },
+    {
       "folder": "smp",
       "format": "webp",
       "count": 33,
       "sample": "/smp/01.webp"
+    },
+    {
+      "folder": "spinkix",
+      "format": "webp",
+      "count": 20,
+      "sample": "/spinkix/01.webp"
     },
     {
       "folder": "weding",
@@ -83,6 +197,12 @@
       "format": "webp",
       "count": 71,
       "sample": "/wpark/new01.webp"
+    },
+    {
+      "folder": "wterrier",
+      "format": "webp",
+      "count": 30,
+      "sample": "/wterrier/01.webp"
     }
   ]
 }

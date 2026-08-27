@@ -1,0 +1,71 @@
+{
+  "folder": "samoyed",
+  "format": "webp",
+  "count": 16,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/samoyed/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/samoyed/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/samoyed/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/samoyed/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/samoyed/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/samoyed/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/samoyed/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/samoyed/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/samoyed/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/samoyed/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/samoyed/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/samoyed/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/samoyed/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/samoyed/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/samoyed/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/samoyed/16.webp"
+    }
+  ]
+}

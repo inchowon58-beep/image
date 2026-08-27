@@ -1,0 +1,55 @@
+{
+  "folder": "oldbig",
+  "format": "webp",
+  "count": 12,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/oldbig/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/oldbig/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/oldbig/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/oldbig/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/oldbig/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/oldbig/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/oldbig/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/oldbig/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/oldbig/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/oldbig/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/oldbig/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/oldbig/12.webp"
+    }
+  ]
+}

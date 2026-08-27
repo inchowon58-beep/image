@@ -1,0 +1,59 @@
+{
+  "folder": "perisian",
+  "format": "webp",
+  "count": 13,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/perisian/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/perisian/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/perisian/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/perisian/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/perisian/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/perisian/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/perisian/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/perisian/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/perisian/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/perisian/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/perisian/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/perisian/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/perisian/13.webp"
+    }
+  ]
+}

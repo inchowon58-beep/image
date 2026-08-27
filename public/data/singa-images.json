@@ -1,0 +1,83 @@
+{
+  "folder": "singa",
+  "format": "webp",
+  "count": 19,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/singa/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/singa/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/singa/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/singa/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/singa/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/singa/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/singa/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/singa/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/singa/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/singa/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/singa/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/singa/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/singa/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/singa/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/singa/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/singa/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/singa/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/singa/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/singa/19.webp"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "folder": "scottish",
+  "format": "webp",
+  "count": 19,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/scottish/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/scottish/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/scottish/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/scottish/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/scottish/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/scottish/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/scottish/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/scottish/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/scottish/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/scottish/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/scottish/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/scottish/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/scottish/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/scottish/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/scottish/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/scottish/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/scottish/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/scottish/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/scottish/19.webp"
+    }
+  ]
+}

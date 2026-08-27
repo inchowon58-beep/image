@@ -1,0 +1,79 @@
+{
+  "folder": "american",
+  "format": "webp",
+  "count": 18,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/american/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/american/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/american/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/american/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/american/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/american/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/american/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/american/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/american/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/american/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/american/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/american/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/american/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/american/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/american/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/american/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/american/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/american/18.webp"
+    }
+  ]
+}
