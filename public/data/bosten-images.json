@@ -1,0 +1,27 @@
+{
+  "folder": "bosten",
+  "format": "webp",
+  "count": 5,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/bosten/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/bosten/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/bosten/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/bosten/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/bosten/05.webp"
+    }
+  ]
+}

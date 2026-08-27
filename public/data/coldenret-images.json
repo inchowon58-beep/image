@@ -1,0 +1,47 @@
+{
+  "folder": "coldenret",
+  "format": "webp",
+  "count": 10,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/coldenret/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/coldenret/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/coldenret/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/coldenret/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/coldenret/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/coldenret/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/coldenret/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/coldenret/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/coldenret/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/coldenret/10.webp"
+    }
+  ]
+}

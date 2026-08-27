@@ -1,0 +1,51 @@
+{
+  "folder": "minipin",
+  "format": "webp",
+  "count": 11,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/minipin/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/minipin/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/minipin/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/minipin/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/minipin/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/minipin/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/minipin/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/minipin/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/minipin/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/minipin/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/minipin/11.webp"
+    }
+  ]
+}

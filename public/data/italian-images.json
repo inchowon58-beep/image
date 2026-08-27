@@ -1,0 +1,47 @@
+{
+  "folder": "italian",
+  "format": "webp",
+  "count": 10,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/italian/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/italian/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/italian/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/italian/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/italian/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/italian/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/italian/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/italian/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/italian/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/italian/10.webp"
+    }
+  ]
+}

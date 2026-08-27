@@ -19,10 +19,22 @@
       "sample": "/bnagal/01.webp"
     },
     {
+      "folder": "bosten",
+      "format": "webp",
+      "count": 5,
+      "sample": "/bosten/01.webp"
+    },
+    {
       "folder": "british",
       "format": "webp",
       "count": 87,
       "sample": "/british/01.webp"
+    },
+    {
+      "folder": "bunyz",
+      "format": "webp",
+      "count": 12,
+      "sample": "/bunyz/01.webp"
     },
     {
       "folder": "catboho",
@@ -31,10 +43,28 @@
       "sample": "/catboho/01.webp"
     },
     {
+      "folder": "chauchau",
+      "format": "webp",
+      "count": 6,
+      "sample": "/chauchau/01.webp"
+    },
+    {
       "folder": "chul",
       "format": "webp",
       "count": 20,
       "sample": "/chul/01.webp"
+    },
+    {
+      "folder": "coca",
+      "format": "webp",
+      "count": 10,
+      "sample": "/coca/01.webp"
+    },
+    {
+      "folder": "coldenret",
+      "format": "webp",
+      "count": 10,
+      "sample": "/coldenret/01.webp"
     },
     {
       "folder": "coton",
@@ -49,6 +79,18 @@
       "sample": "/daks/01.webp"
     },
     {
+      "folder": "dalma",
+      "format": "webp",
+      "count": 21,
+      "sample": "/dalma/01.webp"
+    },
+    {
+      "folder": "doberman",
+      "format": "webp",
+      "count": 6,
+      "sample": "/doberman/01.webp"
+    },
+    {
       "folder": "dogboho",
       "format": "webp",
       "count": 79,
@@ -59,6 +101,24 @@
       "format": "webp",
       "count": 40,
       "sample": "/doodle/01.webp"
+    },
+    {
+      "folder": "engbuldog",
+      "format": "webp",
+      "count": 6,
+      "sample": "/engbuldog/01.webp"
+    },
+    {
+      "folder": "frenchi",
+      "format": "webp",
+      "count": 27,
+      "sample": "/frenchi/01.webp"
+    },
+    {
+      "folder": "italian",
+      "format": "webp",
+      "count": 10,
+      "sample": "/italian/01.webp"
     },
     {
       "folder": "jejuland",
@@ -79,10 +139,22 @@
       "sample": "/maincoon/01.webp"
     },
     {
+      "folder": "malamute",
+      "format": "webp",
+      "count": 5,
+      "sample": "/malamute/01.webp"
+    },
+    {
       "folder": "mcnchikin",
       "format": "webp",
       "count": 66,
       "sample": "/mcnchikin/01.webp"
+    },
+    {
+      "folder": "minipin",
+      "format": "webp",
+      "count": 11,
+      "sample": "/minipin/01.webp"
     },
     {
       "folder": "neva",
@@ -101,6 +173,12 @@
       "format": "webp",
       "count": 12,
       "sample": "/oldbig/01.webp"
+    },
+    {
+      "folder": "pekinee",
+      "format": "webp",
+      "count": 27,
+      "sample": "/pekinee/01.webp"
     },
     {
       "folder": "perisian",
@@ -163,6 +241,18 @@
       "sample": "/selti/01.webp"
     },
     {
+      "folder": "shichu",
+      "format": "webp",
+      "count": 24,
+      "sample": "/shichu/01.webp"
+    },
+    {
+      "folder": "shuna",
+      "format": "webp",
+      "count": 10,
+      "sample": "/shuna/01.webp"
+    },
+    {
       "folder": "siba",
       "format": "webp",
       "count": 19,
@@ -193,6 +283,12 @@
       "sample": "/weding/01.webp"
     },
     {
+      "folder": "welshi",
+      "format": "webp",
+      "count": 16,
+      "sample": "/welshi/01.webp"
+    },
+    {
       "folder": "wpark",
       "format": "webp",
       "count": 71,
@@ -203,6 +299,12 @@
       "format": "webp",
       "count": 30,
       "sample": "/wterrier/01.webp"
+    },
+    {
+      "folder": "yoki",
+      "format": "webp",
+      "count": 12,
+      "sample": "/yoki/01.webp"
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "folder": "bunyz",
+  "format": "webp",
+  "count": 12,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/bunyz/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/bunyz/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/bunyz/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/bunyz/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/bunyz/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/bunyz/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/bunyz/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/bunyz/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/bunyz/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/bunyz/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/bunyz/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/bunyz/12.webp"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "malamute",
+  "format": "webp",
+  "count": 5,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/malamute/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/malamute/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/malamute/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/malamute/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/malamute/05.webp"
+    }
+  ]
+}

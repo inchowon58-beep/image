@@ -1,0 +1,47 @@
+{
+  "folder": "coca",
+  "format": "webp",
+  "count": 10,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/coca/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/coca/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/coca/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/coca/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/coca/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/coca/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/coca/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/coca/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/coca/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/coca/10.webp"
+    }
+  ]
+}

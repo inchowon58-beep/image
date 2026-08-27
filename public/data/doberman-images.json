@@ -1,0 +1,31 @@
+{
+  "folder": "doberman",
+  "format": "webp",
+  "count": 6,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/doberman/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/doberman/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/doberman/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/doberman/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/doberman/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/doberman/06.webp"
+    }
+  ]
+}

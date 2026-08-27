@@ -1,0 +1,31 @@
+{
+  "folder": "engbuldog",
+  "format": "webp",
+  "count": 6,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/engbuldog/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/engbuldog/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/engbuldog/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/engbuldog/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/engbuldog/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/engbuldog/06.webp"
+    }
+  ]
+}

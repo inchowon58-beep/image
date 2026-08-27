@@ -1,0 +1,71 @@
+{
+  "folder": "welshi",
+  "format": "webp",
+  "count": 16,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/welshi/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/welshi/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/welshi/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/welshi/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/welshi/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/welshi/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/welshi/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/welshi/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/welshi/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/welshi/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/welshi/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/welshi/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/welshi/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/welshi/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/welshi/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/welshi/16.webp"
+    }
+  ]
+}

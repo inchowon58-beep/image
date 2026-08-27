@@ -1,0 +1,31 @@
+{
+  "folder": "chauchau",
+  "format": "webp",
+  "count": 6,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/chauchau/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/chauchau/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/chauchau/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/chauchau/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/chauchau/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/chauchau/06.webp"
+    }
+  ]
+}

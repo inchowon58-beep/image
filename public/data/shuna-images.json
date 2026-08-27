@@ -1,0 +1,47 @@
+{
+  "folder": "shuna",
+  "format": "webp",
+  "count": 10,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/shuna/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/shuna/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/shuna/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/shuna/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/shuna/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/shuna/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/shuna/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/shuna/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/shuna/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/shuna/10.webp"
+    }
+  ]
+}
