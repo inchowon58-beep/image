@@ -1,0 +1,39 @@
+{
+  "folder": "rabriter",
+  "format": "webp",
+  "count": 8,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/rabriter/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/rabriter/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/rabriter/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/rabriter/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/rabriter/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/rabriter/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/rabriter/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/rabriter/08.webp"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "folder": "chihuahua",
+  "format": "webp",
+  "count": 20,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/chihuahua/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/chihuahua/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/chihuahua/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/chihuahua/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/chihuahua/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/chihuahua/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/chihuahua/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/chihuahua/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/chihuahua/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/chihuahua/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/chihuahua/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/chihuahua/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/chihuahua/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/chihuahua/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/chihuahua/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/chihuahua/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/chihuahua/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/chihuahua/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/chihuahua/19.webp"
+    },
+    {
+      "filename": "20.webp",
+      "path": "/chihuahua/20.webp"
+    }
+  ]
+}

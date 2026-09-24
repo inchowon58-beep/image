@@ -1,0 +1,87 @@
+{
+  "folder": "bishone",
+  "format": "webp",
+  "count": 20,
+  "images": [
+    {
+      "filename": "01.webp",
+      "path": "/bishone/01.webp"
+    },
+    {
+      "filename": "02.webp",
+      "path": "/bishone/02.webp"
+    },
+    {
+      "filename": "03.webp",
+      "path": "/bishone/03.webp"
+    },
+    {
+      "filename": "04.webp",
+      "path": "/bishone/04.webp"
+    },
+    {
+      "filename": "05.webp",
+      "path": "/bishone/05.webp"
+    },
+    {
+      "filename": "06.webp",
+      "path": "/bishone/06.webp"
+    },
+    {
+      "filename": "07.webp",
+      "path": "/bishone/07.webp"
+    },
+    {
+      "filename": "08.webp",
+      "path": "/bishone/08.webp"
+    },
+    {
+      "filename": "09.webp",
+      "path": "/bishone/09.webp"
+    },
+    {
+      "filename": "10.webp",
+      "path": "/bishone/10.webp"
+    },
+    {
+      "filename": "11.webp",
+      "path": "/bishone/11.webp"
+    },
+    {
+      "filename": "12.webp",
+      "path": "/bishone/12.webp"
+    },
+    {
+      "filename": "13.webp",
+      "path": "/bishone/13.webp"
+    },
+    {
+      "filename": "14.webp",
+      "path": "/bishone/14.webp"
+    },
+    {
+      "filename": "15.webp",
+      "path": "/bishone/15.webp"
+    },
+    {
+      "filename": "16.webp",
+      "path": "/bishone/16.webp"
+    },
+    {
+      "filename": "17.webp",
+      "path": "/bishone/17.webp"
+    },
+    {
+      "filename": "18.webp",
+      "path": "/bishone/18.webp"
+    },
+    {
+      "filename": "19.webp",
+      "path": "/bishone/19.webp"
+    },
+    {
+      "filename": "20.webp",
+      "path": "/bishone/20.webp"
+    }
+  ]
+}

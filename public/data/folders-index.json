@@ -13,6 +13,12 @@
       "sample": "/american/01.webp"
     },
     {
+      "folder": "bishone",
+      "format": "webp",
+      "count": 20,
+      "sample": "/bishone/01.webp"
+    },
+    {
       "folder": "bnagal",
       "format": "webp",
       "count": 20,
@@ -47,6 +53,12 @@
       "format": "webp",
       "count": 6,
       "sample": "/chauchau/01.webp"
+    },
+    {
+      "folder": "chihuahua",
+      "format": "webp",
+      "count": 20,
+      "sample": "/chihuahua/01.webp"
     },
     {
       "folder": "chul",
@@ -145,6 +157,18 @@
       "sample": "/malamute/01.webp"
     },
     {
+      "folder": "maltese",
+      "format": "webp",
+      "count": 25,
+      "sample": "/maltese/01.webp"
+    },
+    {
+      "folder": "maltipoo",
+      "format": "webp",
+      "count": 26,
+      "sample": "/maltipoo/01.webp"
+    },
+    {
       "folder": "mcnchikin",
       "format": "webp",
       "count": 66,
@@ -211,6 +235,12 @@
       "sample": "/purme/01.webp"
     },
     {
+      "folder": "rabriter",
+      "format": "webp",
+      "count": 8,
+      "sample": "/rabriter/01.webp"
+    },
+    {
       "folder": "ragdoll",
       "format": "webp",
       "count": 57,
@@ -275,6 +305,12 @@
       "format": "webp",
       "count": 20,
       "sample": "/spinkix/01.webp"
+    },
+    {
+      "folder": "toypoodle",
+      "format": "webp",
+      "count": 33,
+      "sample": "/toypoodle/01.webp"
     },
     {
       "folder": "weding",
