@@ -1,6 +1,12 @@
 {
   "folders": [
     {
+      "folder": "Newwhiteterrier",
+      "format": "webp",
+      "count": 11,
+      "sample": "/Newwhiteterrier/01.webp"
+    },
+    {
       "folder": "abisinan",
       "format": "webp",
       "count": 20,
